@@ -1,3 +1,4 @@
-## Codecademy
+## Projects
 Exercises from Codecademy - Data Science
-- life_expectancy_gdp: Relate life expectancy to GDP by country over time
+- Life_expectancy_and_GDP: Relate life expectancy to GDP by country over time
+- Biodiversity: Explore animal and plant species in national parks
